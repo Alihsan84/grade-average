@@ -1,5 +1,5 @@
 # Grade Average of a Student
-This is a program to take in the marks of five course display the 
+This is a program to take in the marks of five courses display the 
 grade. Program takes in the marks of Mathematics, Physics, Turkish, 
 Chemistry and Music from the user and finds the average of the marks.
 If the average is greater than 55 the program displays the message
@@ -13,7 +13,7 @@ the average is not calculated.**
 
 ## Installation
 Clone the project.
-> https://github.com/miyendisa/basic-calculator.git
+> https://github.com/miyendisa/grade-average.git
 
 ---
 
